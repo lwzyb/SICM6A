@@ -1,2 +1,5 @@
 # M6A
-deep learning(pytorch code) for predciting M6A sites
+SICM6A: Identifying m6A Site across Species by Transposed GRU Network 
+
+#please cite:
+Wenzhong liu. SICM6A: Identifying m6A Site across Species by Transposed GRU Network.(Submitted)
