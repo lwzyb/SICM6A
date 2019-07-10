@@ -9,17 +9,17 @@ SICM6A is a deep-learning-based framework to predict m6A sites across species.
 - pylab
 - sklearn
 
-It is highly recommended to install based on anaconda £¨python 3.7£© 
+It is highly recommended to install based on anaconda Â£Â¨python 3.7Â£Â© 
 
 # model folder
 
   Five models that have been trained.
 
 # config.txt
-  Parameters that the software needs to load£º
+  Parameters that the software needs to loadÂ£Âº
 - Model file: XXXpklfile =model/...
 - Three level threshold (high 95%,midum 90%,low 85%) 
-- Content as follows£º
+- Content as followsÂ£Âº
 
 hepg2_brainmodelpklfile=model/HepG2_model_ind_hs_mm_NAGCT_85_8320_29_101.pkl
 hepg2_brain_threshold_high=-0.09196107
@@ -46,8 +46,7 @@ Full_transcriptthreshold_low=-2.186074
 - Run sicm6apredictor.py in the "spyder" interface of anaconda
 
 #Copyright:
-    The author (Wenzhong Liu ) of this software owns all copyright of the Software. You may use or modify the software for free, but this is limited to the academic research. If you want to use for commercial purposes, please contact the software author: newwenzhong@hotmail.com.
    If you use this software and methods, please cite this paper in your research results:
-  Wenzhong Liu.SICM6A:Identifying m6A Site across Species by Transposed GRU Network.£¨Submitted)
+  Wenzhong Liu.SICM6A:Identifying m6A Site across Species by Transposed GRU Network.(Submitted)
 
 
