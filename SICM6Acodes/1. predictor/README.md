@@ -45,8 +45,9 @@ Full_transcriptthreshold_low=-2.186074
 #Usage:
 - Run sicm6apredictor.py in the "spyder" interface of anaconda
 
-#Copyright:
+#Cite:
    If you use this software and methods, please cite this paper in your research results:
-  Wenzhong Liu.SICM6A:Identifying m6A Site across Species by Transposed GRU Network.(Submitted)
+   
+  Wenzhong Liu. SICM6A:Identifying m6A Site across Species by Transposed GRU Network.(Submitted)
 
 
