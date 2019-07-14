@@ -1,3 +1,6 @@
+#GPU CARD
+ >= GTX 980TI
+ 
 #Codes List
 1. train - test/prediction:
  a. for BERMP datasets: SICM6A_train_BERMPds.py
