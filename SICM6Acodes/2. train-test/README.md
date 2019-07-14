@@ -1,4 +1,4 @@
-#GPU Card
+#GPU Card:
  GTX 980TI or above
  
 #Codes List
