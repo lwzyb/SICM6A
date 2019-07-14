@@ -1,5 +1,5 @@
-#GPU CARD
- >= GTX 980TI
+#GPU Card
+ GTX 980TI or above
  
 #Codes List
 1. train - test/prediction:
